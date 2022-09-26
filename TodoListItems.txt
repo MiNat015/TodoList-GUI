@@ -1,0 +1,10 @@
+Mail birthday card	Buy a 30th birthday card for John	25-08-2021
+Doctor's Appointment	See Dr. Smith at 123 Street	14-07-2021
+Finish design proposal	Email design by 8:30	08-07-2021
+Pickup Doug at the airport	Flight arrives at 7:30	05-07-2021
+My new to do item	This is a new to do item	11-07-2021
+Arjuns Item	Test item	13-07-2021
+Short TEST	Testing observable array	30-07-2021
+Valorant at 8	Play some valorant at 8	01-07-2021
+Todays Item	Item on July 15th	15-07-2021
+Dinner at 8	Dinner with family	27-08-2021
